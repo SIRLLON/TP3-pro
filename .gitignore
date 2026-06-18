@@ -1,0 +1,10 @@
+__pycache__/
+*.pem
+*.crt
+*.key
+temp_*
+*.bin
+*.txt
+!trace*.txt
+!ex*.md
+!*.py
